@@ -1,7 +1,7 @@
 This script creates a Convolutional Neural Network using TensorFlow for the purpose of digit recognition on the popular MNIST data set.  
 
 ## Inspiration
-This scrip was inspired by my desire and progress towards learning TensorFlow.  The code here was heavily borrowed from the provided code and exercises in the [TensorFlow and deep earning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0) tutorial on Codelabs.
+This script was inspired by my desire and progress towards learning TensorFlow.  The code here was heavily borrowed from the provided code and exercises in the [TensorFlow and deep earning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0) tutorial on Codelabs.
 
 ## Modifications
 Many MNIST notebooks and scripts on Kaggle import the data directly from a pre-built TensorFlow module.  This method is very fraudulent for two reasons:
